@@ -1,4 +1,4 @@
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/ricveal/keynote-frontend-ci/develop#/13)
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/ricveal/keynote-frontend-ci#/)
 
 # Integración Continua en Frontend
 
